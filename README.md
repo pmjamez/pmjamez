@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-- 💬 Ask me about **increasing diversity in workplaces**
+- 💬 **
 
 - 📫 How to reach me **jamesvo2468@gmail.com**
 
